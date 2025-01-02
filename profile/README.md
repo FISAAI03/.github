@@ -5,9 +5,9 @@
     <td align="center"><a href="https://github.com/yonggaljjw"><img src="https://avatars.githubusercontent.com/yonggaljjw" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/JiyeonJeong02"><img src="https://avatars.githubusercontent.com/JiyeonJeong02" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/rhrjsdn3853"><img src="https://avatars.githubusercontent.com/rhrjsdn3853" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/sangminpark9"><img src="https://avatars.githubusercontent.com/rhrjsdn3853" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/gaeun19"><img src="https://avatars.githubusercontent.com/rhrjsdn3853" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/kimnagyeong99"><img src="https://avatars.githubusercontent.com/rhrjsdn3853" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/sangminpark9"><img src="https://avatars.githubusercontent.com/sangminpark9" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/gaeun19"><img src="https://avatars.githubusercontent.com/gaeun19" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/kimnagyeong99"><img src="https://avatars.githubusercontent.com/kimnagyeong99" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/DoxB"><b>임정규</b></td>
