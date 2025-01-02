@@ -14,8 +14,8 @@
     <td align="center"><a href="https://github.com/yonggaljjw"><b>조진원</b></td>
     <td align="center"><a href="https://github.com/JiyeonJeong02"><b>정지연</b></td>
     <td align="center"><a href="https://github.com/rhrjsdn3853"><b>고건우</b></td>
-    <td align="center"><a href="https://github.com/rhrjsdn3853"><b>박상민</b></td>
-    <td align="center"><a href="https://github.com/rhrjsdn3853"><b>이가은</b></td>
-    <td align="center"><a href="https://github.com/rhrjsdn3853"><b>김나경</b></td>
+    <td align="center"><a href="https://github.com/sangminpark9"><b>박상민</b></td>
+    <td align="center"><a href="https://github.com/gaeun19"><b>이가은</b></td>
+    <td align="center"><a href="https://github.com/kimnagyeong99"><b>김나경</b></td>
   </tr>
 </table>
