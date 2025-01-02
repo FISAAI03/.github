@@ -1,5 +1,4 @@
 ## :airplane: **멤버**
-https://github.com/sangminpark9
 <table>
  <tr>
     <td align="center"><a href="https://github.com/DoxB"><img src="https://avatars.githubusercontent.com/DoxB" width="150px;" alt=""></td>
